@@ -34,42 +34,66 @@ html{
     background-repeat:no-repeat;
 }
 
-#row-section1 {
-}
 
 h1{
-    background-color: blueviolet;
-    width: 400px;
+    background-image: linear-gradient(rgb(116, 201, 241), rgb(251, 64, 64));
+    width: 60%;
+    height: 50px;
     margin: auto;
-    border: 3px solid blue;
     text-align: center;
+    font-size: 25px;
+    border-radius: 5px;
+    text-decoration: underline;
+    color: blueviolet;
+    text-shadow: 1px 1px 1px black;
+    padding-top:10px;
 }
+/* Row 1 Styling */
 #row1{
     height: auto;
     width: 600px;
     margin: auto;
-    outline: 1px solid black;
-    background-color: aqua;
 }
 
-#row2{
-    height: autopx;
-    width: 600px;
-    margin: auto;
-    outline: 1px solid black;
-    background-color: aqua;
+#row1-section2{
+    border: 1px solid black;
+    background: rgb(116, 201, 241);
+    border-radius: 5px;
 }
 #jordans-1{
     height: 400px;
     width: 600px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#jordans-1-desc {
+    color: white;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Row 2 styling */
+#row2{
+    height: autopx;
+    width: 600px;
+    margin: auto;
 }
 
 #jordans-2{
     height: 400px;
     width: 600px;
+    border: 1px solid black;
+    border-radius: 5px;
 }
 
-
-#row2-section-1{
-
+#row2-section2{
+    border: 1px solid black;
+    background: rgb(251, 64, 64);
+    border-radius: 5px;
+}
+#jordans-2-desc{
+    margin: 5px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif';
 }
