@@ -59,12 +59,14 @@ h1{
     border: 1px solid black;
     background: rgb(116, 201, 241);
     border-radius: 5px;
+    border: 2px solid red;
 }
 #jordans-1{
     height: 400px;
     width: 600px;
     border: 1px solid black;
     border-radius: 5px;
+    border: 2px solid blue;
 }
 
 #jordans-1-desc {
@@ -85,12 +87,14 @@ h1{
     width: 600px;
     border: 1px solid black;
     border-radius: 5px;
+    border: 2px solid red;
 }
 
 #row2-section2{
     border: 1px solid black;
     background: rgb(251, 64, 64);
     border-radius: 5px;
+    border: 2px solid blue;
 }
 #jordans-2-desc{
     margin: 5px;
