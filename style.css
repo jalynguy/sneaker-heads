@@ -28,10 +28,37 @@ Images:
     - (You may use any image you would like for the background!)
 */
 
+html{
+    background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
 #row-section1 {
 }
 
+h1{
+    background-color: blueviolet;
+    width: 400px;
+    margin: auto;
+    border: 3px solid blue;
+    text-align: center;
+}
+#row1{
+    height: auto;
+    width: 600px;
+    margin: auto;
+    outline: 1px solid black;
+    background-color: aqua;
+}
 
+#row2{
+    height: autopx;
+    width: 600px;
+    margin: auto;
+    outline: 1px solid black;
+    background-color: aqua;
+}
 #jordans-1{
     height: 400px;
     width: 600px;
